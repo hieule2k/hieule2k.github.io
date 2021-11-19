@@ -331,6 +331,8 @@ html {
 .place-time {
     margin-top: 15px;
     color: #757575;
+    opacity: 0.6;
+    font-style: italic;
 }
 
 .place-desc {
